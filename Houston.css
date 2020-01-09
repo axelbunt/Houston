@@ -1,0 +1,34 @@
+html {
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1 {
+    font-family: 'Roboto', 'Helvetica Nue', sans-serif;
+    width: 32px;
+    margin-top: 1.5em;
+}
+
+h2 {
+    font-family: 'Roboto', 'Helvetica Nue', sans-serif;
+    margin-top: 1.5em;
+}
+
+div {
+    float: right;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 30px;
+}
+
+div>figcaption {
+    font-style: italic;
+}
+
+#table3 {
+    margin-left: 35px;
+}
+
+#figTable3 {
+    margin-left: 35px;
+}
